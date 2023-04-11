@@ -1,0 +1,28 @@
+Hyena Habitat:
+
+An0 hyena unnamed 99 born in spring tan color 70 pounds 9999 Tunisia Tunisia02
+An1 hyena unnamed 99 born in fall brown color 150 pounds 9999 Tunisia Tunisia02
+An2 hyena unnamed 99 born in spring black color 120 pounds 9999 Tunisia Tunisia02
+An3 hyena unnamed 99 unknown birth season black and tan striped color 105 pounds 9999 Tunisia Tunisia02
+
+Lion Habitat:
+
+An4 lion unnamed 99 born in spring tan color 300 pounds 9999 Tanzania Tanzania02
+An5 lion unnamed 99 born in winter dark tan color 375 pounds 9999 Tanzania Tanzania02
+An6 lion unnamed 99 born in fall golden color 450 pounds 9999 Tanzania Tanzania02
+An7 lion unnamed 99 born in spring tan and brown color 275 pounds 9999 Tanzania Tanzania02
+
+Tiger Habitat:
+
+An8 tiger unnamed 99 born in spring gold and tan stripes color 270 pounds 9999 Bangladesh Bangladesh02
+An9 tiger unnamed 99 born in spring black stripes color 400 pounds 9999 Bangladesh Bangladesh02
+An10 tiger unnamed 99 born in fall gold and tan color 300 pounds 9999 Nepal Nepal02
+An11 tiger unnamed 99 born in spring black stripes color 285 pounds 9999 Nepal Nepal02
+
+Bear Habitat:
+
+An12 bear unnamed 99 born in spring brown color 320 pounds 9999 Alaska Alaska02
+An13 bear unnamed 99 born in spring black color 425 pounds 9999 Washington  Washington 02
+An14 bear unnamed 99 born in fall black color 355 pounds 9999 Washington  Washington 02
+An15 bear unnamed 99 born in spring brown color 405 pounds 9999 Alaska Alaska02
+
